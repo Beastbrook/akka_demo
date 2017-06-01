@@ -1,1 +1,2 @@
 # akka_demo
+akka_demo通过模拟服务器和客户的的通讯，简单形象地介绍如何akka背后的机制
